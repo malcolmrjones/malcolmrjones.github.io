@@ -1,0 +1,28 @@
+h2, p, img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#lpTitle {
+    text-align: center;
+}
+
+p {
+    width: 30%;
+    line-height: 1.5rem;
+}
+
+.highlighted {
+    background-color: orange;
+}
+
+.underlined {
+    text-decoration: underline;
+}
+
+.redbolded {
+    color: red;
+    font-weight: bold;
+}
+
